@@ -1,111 +1,97 @@
-[21:54:45] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[21:54:45] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[21:54:46] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:54:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[21:54:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[22:49:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[22:49:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[22:49:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:49:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[22:49:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - SkinsRestorer (15.5.2), voicechat (2.5.26)
-[21:54:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:54:52] [ServerMain/INFO]: Loaded 1337 recipes
-[21:54:52] [ServerMain/INFO]: Loaded 1448 advancements
-[21:54:52] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[21:54:52] [Server thread/INFO]: Loading properties
-[21:54:52] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[21:54:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:54:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:54:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:54:53] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[21:54:53] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[21:54:54] [Server thread/INFO]: Default game type: SURVIVAL
-[21:54:54] [Server thread/INFO]: Generating keypair
-[21:54:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:54:54] [Server thread/INFO]: Using epoll channel type
-[21:54:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:54:54] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:54:54] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[21:54:54] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[21:54:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:54:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[21:54:55] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[21:54:55] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[21:54:56] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:54:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:54:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:54:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:54:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:54:56] [Server thread/INFO]: Preparing level "world"
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:54:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:54:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:54:56] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[21:54:56] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 368.3ms
-[21:54:57] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:57] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:57] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:57] [Server thread/INFO]: Time elapsed: 1356 ms
-[21:54:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:54:57] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:58] [Server thread/INFO]: Time elapsed: 268 ms
-[21:54:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:54:58] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:58] [Server thread/INFO]: Time elapsed: 152 ms
-[21:54:58] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[21:54:58] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
-[21:54:58] [Server thread/INFO]: [voicechat] Compatibility version 18
-[21:54:58] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[21:54:58] [Server thread/INFO]: [spark] Starting background profiler...
-[21:54:58] [Server thread/INFO]: Done preparing level "world" (2.703s)
-[21:54:58] [Server thread/INFO]: Running delayed init tasks
-[21:54:58] [Server thread/INFO]: Done (13.754s)! For help, type "help"
-[21:54:58] [Server thread/INFO]: [voicechat] Loading plugins
-[21:54:58] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[21:54:58] [Server thread/INFO]: [voicechat] Initializing plugins
-[21:54:58] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[21:54:58] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[21:54:58] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'back-bumper.gl.at.ply.gg:3133'
-[21:54:58] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'back-bumper.gl.at.ply.gg', binding to wildcard IP instead
-[21:54:58] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at back-bumper.gl.at.ply.gg:3133
-[21:55:04] [User Authenticator #0/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
-[21:55:05] [Server thread/INFO]: Sodopa joined the game
-[21:55:05] [Server thread/INFO]: Sodopa[/127.198.40.59:33641] logged in with entity id 102 at ([world]-517.0487107817872, 75.0, 966.6999999880791)
-[21:55:05] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
-[21:55:05] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
-[21:55:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d0099148-e7cf-358d-a4ad-37a75a059ee9
-[21:55:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
-[21:55:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
-[21:55:20] [User Authenticator #0/INFO]: UUID of player Mondongo is 2b90c025-deb2-3151-a1dc-c6e27c00f9db
-[21:55:21] [Server thread/INFO]: Mondongo joined the game
-[21:55:21] [Server thread/INFO]: Mondongo[/127.200.95.197:38339] logged in with entity id 264 at ([world]-515.703367142964, 75.0, 965.9719614729547)
-[21:56:11] [Server thread/INFO]: Sodopa issued server command: /time set
-[21:56:13] [Server thread/INFO]: Sodopa issued server command: /time set day
-[21:56:13] [Server thread/INFO]: [Sodopa: Set the time to 1000]
-[21:56:27] [Server thread/INFO]: Sodopa lost connection: Disconnected
-[21:56:27] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
-[21:56:27] [Server thread/INFO]: Sodopa left the game
-[21:56:43] [Server thread/INFO]: Mondongo has made the advancement [Stone Age]
-[21:57:16] [Server thread/INFO]: Mondongo has made the advancement [Getting an Upgrade]
-[21:57:41] [Server thread/INFO]: Mondongo lost connection: Disconnected
-[21:57:41] [Server thread/INFO]: [voicechat] Disconnecting client Mondongo
-[21:57:41] [Server thread/INFO]: Mondongo left the game
-[22:01:19] [User Authenticator #1/INFO]: UUID of player Mondongo is 2b90c025-deb2-3151-a1dc-c6e27c00f9db
-[22:01:20] [Server thread/INFO]: Mondongo joined the game
-[22:01:20] [Server thread/INFO]: Mondongo[/127.200.95.197:46617] logged in with entity id 498 at ([world]-511.30000001192093, 64.0, 960.5044371746072)
-[22:01:28] [Server thread/INFO]: [Not Secure] [Server] get out
-[22:02:35] [Server thread/INFO]: Mondongo lost connection: get out nigger, kicked by tryhard
-[22:02:35] [Server thread/INFO]: [voicechat] Disconnecting client Mondongo
-[22:02:35] [Server thread/INFO]: Mondongo left the game
-[22:02:35] [Server thread/INFO]: Kicked Mondongo: get out nigger, kicked by tryhard
-[22:02:43] [User Authenticator #2/INFO]: UUID of player Mondongo is 2b90c025-deb2-3151-a1dc-c6e27c00f9db
-[22:02:44] [Server thread/INFO]: Mondongo joined the game
-[22:02:44] [Server thread/INFO]: Mondongo[/127.200.95.197:36625] logged in with entity id 702 at ([world]-469.7591137972328, 61.85492198202276, 959.0070730452666)
-[22:04:34] [Server thread/INFO]: Mondongo has made the advancement [Acquire Hardware]
+[22:49:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:49:34] [ServerMain/INFO]: Loaded 1337 recipes
+[22:49:34] [ServerMain/INFO]: Loaded 1448 advancements
+[22:49:34] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:49:34] [Server thread/INFO]: Loading properties
+[22:49:35] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[22:49:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:49:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:49:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:49:36] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:49:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:49:36] [Server thread/INFO]: Default game type: SURVIVAL
+[22:49:36] [Server thread/INFO]: Generating keypair
+[22:49:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:49:36] [Server thread/INFO]: Using epoll channel type
+[22:49:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:49:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:49:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[22:49:37] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[22:49:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:49:37] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[22:49:37] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:49:37] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[22:49:38] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:49:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:49:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:49:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:49:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:49:38] [Server thread/INFO]: Preparing level "world"
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:49:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:49:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:49:39] [Server thread/INFO]: Preparing spawn area: 0%
+[22:49:39] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[22:49:39] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 298.7ms
+[22:49:39] [Server thread/INFO]: Preparing spawn area: 2%
+[22:49:40] [Server thread/INFO]: Preparing spawn area: 2%
+[22:49:40] [Server thread/INFO]: Time elapsed: 1445 ms
+[22:49:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:49:40] [Server thread/INFO]: Preparing spawn area: 0%
+[22:49:40] [Server thread/INFO]: Time elapsed: 318 ms
+[22:49:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:49:40] [Server thread/INFO]: Preparing spawn area: 0%
+[22:49:40] [Server thread/INFO]: Time elapsed: 177 ms
+[22:49:40] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[22:49:40] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
+[22:49:40] [Server thread/INFO]: [voicechat] Compatibility version 18
+[22:49:41] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[22:49:41] [Server thread/INFO]: [spark] Starting background profiler...
+[22:49:41] [Server thread/INFO]: Done preparing level "world" (2.770s)
+[22:49:41] [Server thread/INFO]: Running delayed init tasks
+[22:49:41] [Server thread/INFO]: Done (13.812s)! For help, type "help"
+[22:49:41] [Server thread/INFO]: [voicechat] Loading plugins
+[22:49:41] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:49:41] [Server thread/INFO]: [voicechat] Initializing plugins
+[22:49:41] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:49:41] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22:49:41] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'back-bumper.gl.at.ply.gg:3133'
+[22:49:41] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'back-bumper.gl.at.ply.gg', binding to wildcard IP instead
+[22:49:41] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at back-bumper.gl.at.ply.gg:3133
+[22:50:31] [User Authenticator #0/INFO]: UUID of player sodopus is 999f924f-3af7-3b64-96b5-8b064c2660d5
+[22:50:32] [Server thread/INFO]: sodopus joined the game
+[22:50:32] [Server thread/INFO]: sodopus[/127.198.40.59:53123] logged in with entity id 98 at ([world]-536.5, 72.0, 963.5)
+[22:50:32] [Server thread/INFO]: [voicechat] Received secret request of sodopus (18)
+[22:50:32] [Server thread/INFO]: [voicechat] Sent secret to sodopus
+[22:50:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 999f924f-3af7-3b64-96b5-8b064c2660d5
+[22:50:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 999f924f-3af7-3b64-96b5-8b064c2660d5
+[22:50:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player sodopus (999f924f-3af7-3b64-96b5-8b064c2660d5) successfully connected to voice chat
+[22:51:27] [User Authenticator #0/INFO]: UUID of player Mondongo is 2b90c025-deb2-3151-a1dc-c6e27c00f9db
+[22:51:28] [Server thread/INFO]: Mondongo joined the game
+[22:51:28] [Server thread/INFO]: Mondongo[/127.200.95.197:52959] logged in with entity id 353 at ([world]-518.2037967366633, 71.0, 963.5567183773561)
+[22:51:42] [Server thread/INFO]: sodopus issued server command: /skin set sodopa
+[22:51:54] [Server thread/INFO]: sodopus issued server command: /skins
+[22:51:57] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:52:34] [Server thread/INFO]: Mondongo has made the advancement [Monster Hunter]
+[22:52:57] [Server thread/INFO]: sodopus issued server command: /skin set Runichi69
+[22:57:11] [Server thread/INFO]: sodopus fell from a high place
+[22:57:38] [Server thread/INFO]: sodopus lost connection: Disconnected
+[22:57:38] [Server thread/INFO]: [voicechat] Disconnecting client sodopus
+[22:57:38] [Server thread/INFO]: sodopus left the game
