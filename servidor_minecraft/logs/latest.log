@@ -244,3 +244,17 @@
 [18:34:53] [Server thread/WARN]: Oak Boat (vehicle of Sodopa) moved wrongly! 0.6420453459722921
 [18:34:53] [Server thread/WARN]: Oak Boat (vehicle of Sodopa) moved wrongly! 0.9213601167120942
 [18:49:11] [Server thread/INFO]: Teo_09 was slain by Iron Golem
+[18:53:56] [Server thread/INFO]: MrEl_0bit lost connection: Disconnected
+[18:53:56] [Server thread/INFO]: [voicechat] Disconnecting client MrEl_0bit
+[18:53:56] [Server thread/INFO]: MrEl_0bit left the game
+[18:56:35] [Server thread/INFO]: Sodopa lost connection: Disconnected
+[18:56:35] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
+[18:56:35] [Server thread/INFO]: Sodopa left the game
+[18:57:30] [User Authenticator #8/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
+[18:57:31] [Server thread/INFO]: Sodopa joined the game
+[18:57:31] [Server thread/INFO]: Sodopa[/127.198.40.59:57577] logged in with entity id 127681 at ([ku klux klan]2659.0914012337926, 71.02442408821369, -614.252752127723)
+[18:57:32] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
+[18:57:32] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
+[18:57:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[18:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[18:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
