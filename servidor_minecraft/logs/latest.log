@@ -125,3 +125,10 @@
 [21:38:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
 [21:38:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
 [22:23:55] [Server thread/INFO]: Sodopa has made the advancement [You've Got a Friend in Me]
+[22:45:16] [Server thread/INFO]: Villager Villager['Villager'/7658, uuid='cd50c22d-e3df-4013-9b98-081d8bf40c98', l='ServerLevel[ku klux klan]', x=2674.00, y=70.00, z=-590.20, cpos=[167, -37], tl=97772, v=true] died, message: 'Villager was slain by MrEl_0bit'
+[22:45:32] [Server thread/INFO]: Villager Villager['Villager'/12407, uuid='a782478c-3f94-449b-ab8a-afc10d6f8ccb', l='ServerLevel[ku klux klan]', x=2626.48, y=70.00, z=-619.56, cpos=[164, -39], tl=61320, v=true] died, message: 'Villager was shot by MrEl_0bit'
+[22:46:18] [Server thread/INFO]: Villager Villager['Mason'/13048, uuid='cd20aae9-b0af-411a-bda0-516a6508230a', l='ServerLevel[ku klux klan]', x=2663.54, y=70.00, z=-579.56, cpos=[166, -37], tl=55383, v=true] died, message: 'Mason was slain by Sodopa'
+[22:48:13] [User Authenticator #3/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
+[22:48:14] [Server thread/INFO]: Teo_09 joined the game
+[22:48:14] [Server thread/INFO]: Teo_09[/127.205.172.238:38829] logged in with entity id 23678 at ([ku klux klan]2910.1149336331473, 89.0, -424.80086382934667)
+[22:49:25] [Async Chat Thread - #3/INFO]: [Not Secure] <Teo_09> sodopa cabrooooon
