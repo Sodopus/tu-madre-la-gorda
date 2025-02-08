@@ -1,115 +1,131 @@
-[14:34:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[14:34:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[14:34:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:34:51] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/sleep-most-5.5.1.jar'...
-[14:34:51] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/orebfuscator-plugin-5.5.2.jar'...
-[14:34:53] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/sleep-most-5.5.1.jar' in 1194ms.
-[14:34:53] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/orebfuscator-plugin-5.5.2.jar' in 1450ms.
-[14:34:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[14:34:53] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
- - Orebfuscator (5.5.2), ProtocolLib (5.3.0), SkinsRestorer (15.5.2), sleep-most (5.5.1), voicechat (2.5.26)
-[14:34:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:35:00] [ServerMain/INFO]: Loaded 1337 recipes
-[14:35:00] [ServerMain/INFO]: Loaded 1448 advancements
-[14:35:00] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[14:35:00] [Server thread/INFO]: Loading properties
-[14:35:00] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[14:35:00] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[14:35:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:35:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:35:01] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[14:35:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[14:35:01] [Server thread/INFO]: Default game type: SURVIVAL
-[14:35:01] [Server thread/INFO]: Generating keypair
-[14:35:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:35:02] [Server thread/INFO]: Using epoll channel type
-[14:35:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:35:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[14:35:02] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[14:35:02] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
-[14:35:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[14:35:02] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.2
-[14:35:02] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[14:35:02] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
-[14:35:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:35:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[14:35:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[14:35:03] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[14:35:03] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[14:35:04] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[14:35:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:35:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:35:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:35:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:35:04] [Server thread/INFO]: Preparing level "world"
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[14:35:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[14:35:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:35:04] [Server thread/INFO]: Preparing spawn area: 0%
-[14:35:05] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[14:35:05] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 388.6ms
-[14:35:05] [Server thread/INFO]: Preparing spawn area: 2%
-[14:35:06] [Server thread/INFO]: Preparing spawn area: 18%
-[14:35:06] [Server thread/INFO]: Time elapsed: 1399 ms
-[14:35:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:35:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:35:06] [Server thread/INFO]: Time elapsed: 267 ms
-[14:35:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:35:06] [Server thread/INFO]: Preparing spawn area: 0%
-[14:35:06] [Server thread/INFO]: Time elapsed: 106 ms
-[14:35:06] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.2
-[14:35:07] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[14:35:07] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
-[14:35:07] [Server thread/INFO]: [voicechat] Compatibility version 18
-[14:35:07] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[14:35:07] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
-[14:35:07] [Server thread/INFO]: [spark] Starting background profiler...
-[14:35:08] [Server thread/INFO]: Done preparing level "world" (3.899s)
-[14:35:08] [Server thread/INFO]: Running delayed init tasks
-[14:35:08] [Server thread/INFO]: Done (17.840s)! For help, type "help"
-[14:35:08] [Server thread/INFO]: [voicechat] Loading plugins
-[14:35:08] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[14:35:08] [Server thread/INFO]: [voicechat] Initializing plugins
-[14:35:08] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[14:35:08] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[14:35:08] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'back-bumper.gl.at.ply.gg:3133'
-[14:35:08] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'back-bumper.gl.at.ply.gg', binding to wildcard IP instead
-[14:35:08] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at back-bumper.gl.at.ply.gg:3133
-[14:37:02] [User Authenticator #0/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
-[14:37:02] [Server thread/INFO]: Sodopa joined the game
-[14:37:02] [Server thread/INFO]: Sodopa[/127.198.40.59:55385] logged in with entity id 32 at ([world]-512.9960913849827, 76.0, 962.7057649512182)
-[14:39:23] [Server thread/INFO]: Sodopa issued server command: /plugins
-[14:39:26] [Server thread/INFO]: Sodopa was shot by Skeleton
-[14:39:49] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost info
-[14:39:57] [Server thread/INFO]: Sodopa issued server command: /gamemode creative
-[14:39:57] [Server thread/INFO]: [Sodopa: Set own game mode to Creative Mode]
-[14:40:03] [Server thread/INFO]: Sodopa has made the advancement [Sweet Dreams]
-[14:40:37] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost disable clocl-animation
-[14:40:42] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost enable
-[14:40:49] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost insomnia
-[14:41:00] [Server thread/INFO]: Sodopa issued server command: /time set night
-[14:41:00] [Server thread/INFO]: [Sodopa: Set the time to 13000]
-[14:41:01] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost insomnia
-[14:41:04] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost insomnia
-[14:41:23] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost version
-[14:41:40] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost getflag
-[14:42:13] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost getflag clock-animation
-[14:42:15] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost getflag clock-animation
-[14:42:19] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost getflag clock-animation disble
-[14:42:33] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost bed
-[14:43:00] [Server thread/INFO]: Sodopa issued server command: /sleep-most:sleepmost info sex
-[14:43:10] [Server thread/INFO]: Sodopa issued server command: /sm info 2
-[14:43:14] [Server thread/INFO]: Sodopa lost connection: Disconnected
-[14:43:14] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
-[14:43:14] [Server thread/INFO]: Sodopa left the game
+[16:20:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[16:20:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[16:20:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:20:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[16:20:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - Orebfuscator (5.5.2), ProtocolLib (5.3.0), SkinsRestorer (15.5.2), Sleeper (1.6.2), voicechat (2.5.26)
+[16:20:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:20:44] [ServerMain/INFO]: Loaded 1337 recipes
+[16:20:44] [ServerMain/INFO]: Loaded 1448 advancements
+[16:20:44] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[16:20:44] [Server thread/INFO]: Loading properties
+[16:20:45] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[16:20:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:20:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:20:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:20:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:20:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:20:47] [Server thread/INFO]: Default game type: SURVIVAL
+[16:20:47] [Server thread/INFO]: Generating keypair
+[16:20:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:20:47] [Server thread/INFO]: Using epoll channel type
+[16:20:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:20:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:20:48] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[16:20:48] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[16:20:48] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[16:20:48] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.6.2
+[16:20:48] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.2
+[16:20:48] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[16:20:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:20:48] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[16:20:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[16:20:49] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[16:20:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[16:20:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:20:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:20:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:20:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:20:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:20:50] [Server thread/INFO]: Preparing level "ku klux klan"
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:20:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:20:51] [Server thread/INFO]: Preparing spawn area: 0%
+[16:20:51] [Server thread/INFO]: Preparing spawn area: 2%
+[16:20:51] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[16:20:52] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 335.1ms
+[16:20:52] [Server thread/INFO]: Preparing spawn area: 6%
+[16:20:52] [Server thread/INFO]: Preparing spawn area: 10%
+[16:20:52] [Server thread/INFO]: Time elapsed: 1600 ms
+[16:20:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:20:52] [Server thread/INFO]: Preparing spawn area: 0%
+[16:20:53] [Server thread/INFO]: Time elapsed: 351 ms
+[16:20:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:20:53] [Server thread/INFO]: Preparing spawn area: 0%
+[16:20:53] [Server thread/INFO]: Time elapsed: 225 ms
+[16:20:53] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.6.2
+[16:20:53] [Server thread/INFO]: [Sleeper] Sleeper Version 1.6.2 Has Been Enabled!
+[16:20:53] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.2
+[16:20:54] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[16:20:54] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
+[16:20:54] [Server thread/INFO]: [voicechat] Compatibility version 18
+[16:20:54] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[16:20:54] [Server thread/INFO]: [spark] Starting background profiler...
+[16:20:55] [Server thread/INFO]: Done preparing level "ku klux klan" (5.299s)
+[16:20:55] [Server thread/INFO]: Running delayed init tasks
+[16:20:55] [Server thread/INFO]: Done (22.893s)! For help, type "help"
+[16:20:55] [Craft Scheduler Thread - 2 - Orebfuscator/INFO]: [Orebfuscator] CacheFileCleanupTask successfully deleted 4 cache file(s)
+[16:20:55] [Server thread/INFO]: [voicechat] Loading plugins
+[16:20:55] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[16:20:55] [Server thread/INFO]: [voicechat] Initializing plugins
+[16:20:55] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[16:20:55] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:20:56] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'back-bumper.gl.at.ply.gg:3133'
+[16:20:56] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'back-bumper.gl.at.ply.gg', binding to wildcard IP instead
+[16:20:56] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at back-bumper.gl.at.ply.gg:3133
+[16:21:10] [User Authenticator #0/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
+[16:21:11] [Server thread/INFO]: Sodopa joined the game
+[16:21:11] [Server thread/INFO]: Sodopa[/127.198.40.59:58817] logged in with entity id 50 at ([ku klux klan]-107.00167854230482, 66.0, -121.55315423015412)
+[16:22:18] [User Authenticator #1/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[16:22:20] [Server thread/INFO]: MrEl_0bit joined the game
+[16:22:20] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:59045] logged in with entity id 548 at ([ku klux klan]-62.5, 78.0, -79.5)
+[16:23:25] [User Authenticator #2/INFO]: UUID of player Mondongo is 2b90c025-deb2-3151-a1dc-c6e27c00f9db
+[16:23:26] [Server thread/INFO]: Mondongo joined the game
+[16:23:26] [Server thread/INFO]: Mondongo[/127.200.95.197:37471] logged in with entity id 763 at ([ku klux klan]-69.5, 68.0, -86.5)
+[16:23:49] [Server thread/INFO]: MrEl_0bit lost connection: Disconnected
+[16:23:49] [Server thread/INFO]: [voicechat] Disconnecting client MrEl_0bit
+[16:23:49] [Server thread/INFO]: MrEl_0bit left the game
+[16:24:19] [Server thread/INFO]: Sodopa lost connection: Disconnected
+[16:24:19] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
+[16:24:19] [Server thread/INFO]: Sodopa left the game
+[16:24:37] [Server thread/INFO]: Mondongo has made the advancement [Stone Age]
+[16:25:05] [User Authenticator #3/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
+[16:25:05] [Server thread/INFO]: Sodopa joined the game
+[16:25:05] [Server thread/INFO]: Sodopa[/127.198.40.59:45413] logged in with entity id 1022 at ([ku klux klan]-70.49769692219273, 69.0, -82.05020567779651)
+[16:25:06] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
+[16:25:06] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
+[16:25:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[16:25:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[16:25:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
+[16:25:26] [User Authenticator #3/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[16:25:28] [Server thread/INFO]: MrEl_0bit joined the game
+[16:25:28] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:34715] logged in with entity id 1093 at ([ku klux klan]-57.543579203371294, 69.0, -71.55997157822785)
+[16:25:28] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
+[16:25:28] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
+[16:25:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[16:25:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[16:25:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MrEl_0bit (cb18b461-a90f-3ea7-b1f6-19d11ecd53a4) successfully connected to voice chat
+[16:25:33] [Server thread/INFO]: Mondongo has made the advancement [Getting an Upgrade]
+[16:28:30] [User Authenticator #4/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
+[16:28:30] [Server thread/INFO]: Teo_09 joined the game
+[16:28:30] [Server thread/INFO]: Teo_09[/127.205.172.238:47717] logged in with entity id 1773 at ([ku klux klan]-60.5, 67.0, -89.5)
+[16:28:51] [Server thread/INFO]: MrEl_0bit has made the advancement [Stone Age]
+[16:28:56] [Server thread/INFO]: Teo_09 was blown up by Creeper
+[16:29:02] [Server thread/INFO]: Mondongo was shot by Skeleton
+[16:29:09] [Server thread/INFO]: Teo_09 has made the advancement [Stone Age]
+[16:29:12] [Server thread/INFO]: Sodopa issued server command: /time set day
+[16:29:12] [Server thread/INFO]: [Sodopa: Set the time to 1000]
+[16:29:44] [Server thread/INFO]: Sodopa has made the advancement [Stone Age]
+[16:30:13] [Server thread/INFO]: Sodopa has made the advancement [Getting an Upgrade]
