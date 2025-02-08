@@ -113,3 +113,14 @@
 [21:21:44] [Async Chat Thread - #2/INFO]: [Not Secure] <Sodopa> z
 [21:23:02] [Server thread/INFO]: Sodopa has made the advancement [Enchanter]
 [21:26:23] [Server thread/INFO]: Sodopa has made the advancement [Cover Me with Diamonds]
+[21:38:34] [Server thread/INFO]: Sodopa lost connection: Disconnected
+[21:38:34] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
+[21:38:34] [Server thread/INFO]: Sodopa left the game
+[21:38:36] [User Authenticator #2/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
+[21:38:37] [Server thread/INFO]: Sodopa joined the game
+[21:38:37] [Server thread/INFO]: Sodopa[/127.198.40.59:54807] logged in with entity id 9983 at ([ku klux klan]2656.2896363830437, 70.0, -588.407032241821)
+[21:38:37] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
+[21:38:37] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
+[21:38:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[21:38:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[21:38:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
