@@ -1,262 +1,103 @@
-[16:20:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[16:20:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[16:20:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:20:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[16:20:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[20:37:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[20:37:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[20:37:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:37:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[20:37:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - Orebfuscator (5.5.2), ProtocolLib (5.3.0), SkinsRestorer (15.5.2), Sleeper (1.6.2), voicechat (2.5.26)
-[16:20:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:20:44] [ServerMain/INFO]: Loaded 1337 recipes
-[16:20:44] [ServerMain/INFO]: Loaded 1448 advancements
-[16:20:44] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[16:20:44] [Server thread/INFO]: Loading properties
-[16:20:45] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[16:20:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[16:20:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:20:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:20:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[16:20:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[16:20:47] [Server thread/INFO]: Default game type: SURVIVAL
-[16:20:47] [Server thread/INFO]: Generating keypair
-[16:20:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:20:47] [Server thread/INFO]: Using epoll channel type
-[16:20:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:20:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[16:20:48] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[16:20:48] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
-[16:20:48] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[16:20:48] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.6.2
-[16:20:48] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.2
-[16:20:48] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[16:20:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:20:48] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[16:20:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[16:20:49] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[16:20:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[16:20:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[16:20:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:20:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:20:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:20:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:20:50] [Server thread/INFO]: Preparing level "ku klux klan"
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[16:20:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[16:20:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:20:51] [Server thread/INFO]: Preparing spawn area: 0%
-[16:20:51] [Server thread/INFO]: Preparing spawn area: 2%
-[16:20:51] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[16:20:52] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 335.1ms
-[16:20:52] [Server thread/INFO]: Preparing spawn area: 6%
-[16:20:52] [Server thread/INFO]: Preparing spawn area: 10%
-[16:20:52] [Server thread/INFO]: Time elapsed: 1600 ms
-[16:20:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:20:52] [Server thread/INFO]: Preparing spawn area: 0%
-[16:20:53] [Server thread/INFO]: Time elapsed: 351 ms
-[16:20:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:20:53] [Server thread/INFO]: Preparing spawn area: 0%
-[16:20:53] [Server thread/INFO]: Time elapsed: 225 ms
-[16:20:53] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.6.2
-[16:20:53] [Server thread/INFO]: [Sleeper] Sleeper Version 1.6.2 Has Been Enabled!
-[16:20:53] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.2
-[16:20:54] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[16:20:54] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
-[16:20:54] [Server thread/INFO]: [voicechat] Compatibility version 18
-[16:20:54] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[16:20:54] [Server thread/INFO]: [spark] Starting background profiler...
-[16:20:55] [Server thread/INFO]: Done preparing level "ku klux klan" (5.299s)
-[16:20:55] [Server thread/INFO]: Running delayed init tasks
-[16:20:55] [Server thread/INFO]: Done (22.893s)! For help, type "help"
-[16:20:55] [Craft Scheduler Thread - 2 - Orebfuscator/INFO]: [Orebfuscator] CacheFileCleanupTask successfully deleted 4 cache file(s)
-[16:20:55] [Server thread/INFO]: [voicechat] Loading plugins
-[16:20:55] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[16:20:55] [Server thread/INFO]: [voicechat] Initializing plugins
-[16:20:55] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[16:20:55] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[16:20:56] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'back-bumper.gl.at.ply.gg:3133'
-[16:20:56] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'back-bumper.gl.at.ply.gg', binding to wildcard IP instead
-[16:20:56] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at back-bumper.gl.at.ply.gg:3133
-[16:21:10] [User Authenticator #0/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
-[16:21:11] [Server thread/INFO]: Sodopa joined the game
-[16:21:11] [Server thread/INFO]: Sodopa[/127.198.40.59:58817] logged in with entity id 50 at ([ku klux klan]-107.00167854230482, 66.0, -121.55315423015412)
-[16:22:18] [User Authenticator #1/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
-[16:22:20] [Server thread/INFO]: MrEl_0bit joined the game
-[16:22:20] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:59045] logged in with entity id 548 at ([ku klux klan]-62.5, 78.0, -79.5)
-[16:23:25] [User Authenticator #2/INFO]: UUID of player Mondongo is 2b90c025-deb2-3151-a1dc-c6e27c00f9db
-[16:23:26] [Server thread/INFO]: Mondongo joined the game
-[16:23:26] [Server thread/INFO]: Mondongo[/127.200.95.197:37471] logged in with entity id 763 at ([ku klux klan]-69.5, 68.0, -86.5)
-[16:23:49] [Server thread/INFO]: MrEl_0bit lost connection: Disconnected
-[16:23:49] [Server thread/INFO]: [voicechat] Disconnecting client MrEl_0bit
-[16:23:49] [Server thread/INFO]: MrEl_0bit left the game
-[16:24:19] [Server thread/INFO]: Sodopa lost connection: Disconnected
-[16:24:19] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
-[16:24:19] [Server thread/INFO]: Sodopa left the game
-[16:24:37] [Server thread/INFO]: Mondongo has made the advancement [Stone Age]
-[16:25:05] [User Authenticator #3/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
-[16:25:05] [Server thread/INFO]: Sodopa joined the game
-[16:25:05] [Server thread/INFO]: Sodopa[/127.198.40.59:45413] logged in with entity id 1022 at ([ku klux klan]-70.49769692219273, 69.0, -82.05020567779651)
-[16:25:06] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
-[16:25:06] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
-[16:25:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d0099148-e7cf-358d-a4ad-37a75a059ee9
-[16:25:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
-[16:25:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
-[16:25:26] [User Authenticator #3/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
-[16:25:28] [Server thread/INFO]: MrEl_0bit joined the game
-[16:25:28] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:34715] logged in with entity id 1093 at ([ku klux klan]-57.543579203371294, 69.0, -71.55997157822785)
-[16:25:28] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
-[16:25:28] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
-[16:25:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
-[16:25:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
-[16:25:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MrEl_0bit (cb18b461-a90f-3ea7-b1f6-19d11ecd53a4) successfully connected to voice chat
-[16:25:33] [Server thread/INFO]: Mondongo has made the advancement [Getting an Upgrade]
-[16:28:30] [User Authenticator #4/INFO]: UUID of player Teo_09 is 67efa86c-4fdf-3059-b6f8-831dc664c2c4
-[16:28:30] [Server thread/INFO]: Teo_09 joined the game
-[16:28:30] [Server thread/INFO]: Teo_09[/127.205.172.238:47717] logged in with entity id 1773 at ([ku klux klan]-60.5, 67.0, -89.5)
-[16:28:51] [Server thread/INFO]: MrEl_0bit has made the advancement [Stone Age]
-[16:28:56] [Server thread/INFO]: Teo_09 was blown up by Creeper
-[16:29:02] [Server thread/INFO]: Mondongo was shot by Skeleton
-[16:29:09] [Server thread/INFO]: Teo_09 has made the advancement [Stone Age]
-[16:29:12] [Server thread/INFO]: Sodopa issued server command: /time set day
-[16:29:12] [Server thread/INFO]: [Sodopa: Set the time to 1000]
-[16:29:44] [Server thread/INFO]: Sodopa has made the advancement [Stone Age]
-[16:30:13] [Server thread/INFO]: Sodopa has made the advancement [Getting an Upgrade]
-[16:30:24] [Server thread/INFO]: MrEl_0bit has made the advancement [Getting an Upgrade]
-[16:33:32] [User Authenticator #5/INFO]: UUID of player Sebas2089 is c76fb0d0-4766-3403-915f-e2c5c9a0a8eb
-[16:33:32] [Server thread/INFO]: Sebas2089 joined the game
-[16:33:32] [Server thread/INFO]: Sebas2089[/127.43.21.15:41803] logged in with entity id 3561 at ([ku klux klan]-63.5, 69.0, -77.5)
-[16:34:13] [Server thread/INFO]: Sebas2089 issued server command: /skinsrestorer:skin
-[16:34:17] [Server thread/INFO]: Teo_09 issued server command: /skins
-[16:34:21] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:34:53] [Server thread/INFO]: Teo_09 has made the advancement [Getting an Upgrade]
-[16:36:22] [Server thread/INFO]: Sebas2089 has made the advancement [Stone Age]
-[16:36:49] [Server thread/INFO]: Sebas2089 has made the advancement [Getting an Upgrade]
-[16:37:34] [Server thread/INFO]: MrEl_0bit has made the advancement [Acquire Hardware]
-[16:37:42] [Server thread/INFO]: MrEl_0bit has made the advancement [Isn't It Iron Pick]
-[16:38:11] [Server thread/INFO]: Sodopa has made the advancement [Ice Bucket Challenge]
-[16:39:25] [Server thread/INFO]: Mondongo has made the advancement [Acquire Hardware]
-[16:39:53] [Server thread/INFO]: Mondongo has made the advancement [Isn't It Iron Pick]
-[16:40:36] [Server thread/INFO]: Mondongo has made the advancement [Diamonds!]
-[16:40:51] [Server thread/INFO]: MrEl_0bit has made the advancement [Monster Hunter]
-[16:40:54] [Server thread/INFO]: MrEl_0bit has made the advancement [Diamonds!]
-[16:41:02] [Server thread/INFO]: Sebas2089 has made the advancement [Acquire Hardware]
-[16:41:32] [Server thread/INFO]: Sebas2089 has made the advancement [Monster Hunter]
-[16:43:13] [Server thread/INFO]: MrEl_0bit has made the advancement [Not Today, Thank You]
-[16:43:15] [Server thread/INFO]: MrEl_0bit was shot by Skeleton
-[16:43:39] [Server thread/INFO]: Sebas2089 has made the advancement [Isn't It Iron Pick]
-[16:43:45] [Server thread/INFO]: Sodopa has made the advancement [Acquire Hardware]
-[16:43:54] [Server thread/INFO]: Mondongo has made the advancement [Monster Hunter]
-[16:44:08] [Server thread/INFO]: Sodopa has made the advancement [Monster Hunter]
-[16:44:29] [Server thread/INFO]: Sebas2089 was shot by Skeleton
-[16:44:41] [Server thread/INFO]: Mondongo was slain by Zombie
-[16:46:03] [Server thread/INFO]: MrEl_0bit has made the advancement [Sweet Dreams]
-[16:46:07] [Async Chat Thread - #0/INFO]: [Not Secure] <MrEl_0bit> zzzzzzzzzzz
-[16:46:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Sodopa> suicidate bro
-[16:46:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas2089> seriouslly kill yourself
-[16:47:11] [Server thread/INFO]: Mondongo burned to death
-[16:47:32] [Server thread/INFO]: Mondongo was doomed to fall by Spider
-[16:47:45] [Server thread/INFO]: Sodopa has made the advancement [Isn't It Iron Pick]
-[16:48:02] [Server thread/INFO]: Mondongo was doomed to fall by Skeleton
-[16:48:41] [Server thread/INFO]: Mondongo was slain by MrEl_0bit
-[16:49:24] [Server thread/INFO]: MrEl_0bit was slain by Zombie
-[16:50:08] [Server thread/INFO]: Sodopa has made the advancement [Not Today, Thank You]
-[16:50:26] [Server thread/INFO]: Teo_09 has made the advancement [Acquire Hardware]
-[16:50:39] [Server thread/INFO]: Teo_09 has made the advancement [Isn't It Iron Pick]
-[16:51:51] [Server thread/INFO]: Teo_09 has made the advancement [Diamonds!]
-[16:52:54] [Server thread/INFO]: Sebas2089 has made the advancement [Suit Up]
-[16:56:47] [Server thread/INFO]: Sodopa has made the advancement [Suit Up]
-[16:57:03] [Server thread/INFO]: Teo_09 has made the advancement [Monster Hunter]
-[16:58:16] [User Authenticator #6/INFO]: UUID of player akukis is 2b36bba9-4418-3ccc-9179-d1564b80bed2
-[16:58:16] [Server thread/INFO]: akukis joined the game
-[16:58:16] [Server thread/INFO]: akukis[/127.157.211.142:47543] logged in with entity id 23604 at ([ku klux klan]-58.5, 69.0, -72.5)
-[16:59:16] [Server thread/INFO]: Sebas2089 has made the advancement [Sweet Dreams]
-[16:59:19] [Server thread/INFO]: akukis has made the advancement [Stone Age]
-[16:59:36] [Server thread/INFO]: Teo_09 has made the advancement [Not Today, Thank You]
-[16:59:53] [Server thread/INFO]: akukis has made the advancement [Getting an Upgrade]
-[17:00:03] [Server thread/INFO]: Sebas2089 was slain by Iron Golem
-[17:02:58] [Server thread/INFO]: Teo_09 was shot by Skeleton
-[17:03:54] [Server thread/INFO]: akukis has made the advancement [Acquire Hardware]
-[17:04:41] [Server thread/INFO]: akukis has made the advancement [Isn't It Iron Pick]
-[17:05:21] [Server thread/INFO]: Mondongo has made the advancement [Cover Me with Diamonds]
-[17:08:27] [Server thread/INFO]: Sebas2089 lost connection: Disconnected
-[17:08:27] [Server thread/INFO]: [voicechat] Disconnecting client Sebas2089
-[17:08:27] [Server thread/INFO]: Sebas2089 left the game
-[17:09:40] [Server thread/INFO]: Sodopa has made the advancement [Sweet Dreams]
-[17:09:40] [Server thread/INFO]: akukis has made the advancement [Sweet Dreams]
-[17:10:50] [User Authenticator #7/INFO]: UUID of player Sebas2089 is c76fb0d0-4766-3403-915f-e2c5c9a0a8eb
-[17:10:51] [Server thread/INFO]: Sebas2089 joined the game
-[17:10:51] [Server thread/INFO]: Sebas2089[/127.43.21.15:56929] logged in with entity id 42740 at ([ku klux klan]501.5413063354965, 63.0, -1512.9520266775023)
-[17:11:50] [Async Chat Thread - #2/INFO]: [Not Secure] <Sodopa> 2667 -460
-[17:12:14] [Server thread/INFO]: Sodopa has made the advancement [Diamonds!]
-[17:12:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Sebas2089> 832 68 -1532
-[17:15:57] [Server thread/INFO]: MrEl_0bit has made the advancement [Suit Up]
-[17:16:29] [Server thread/INFO]: MrEl_0bit has made the advancement [Cover Me with Diamonds]
-[17:19:21] [Server thread/INFO]: Sodopa issued server command: /msg akukis 2653 -583
-[17:22:59] [Server thread/INFO]: Teo_09 has made the advancement [Hot Stuff]
-[17:24:37] [Server thread/INFO]: Mondongo has made the advancement [Ice Bucket Challenge]
-[17:28:03] [Server thread/INFO]: Teo_09 was shot by Skeleton
-[17:28:17] [Server thread/INFO]: Sodopa issued server command: /tp Teo_09 Sodopa
-[17:28:17] [Server thread/INFO]: [Sodopa: Teleported Teo_09 to Sodopa]
-[17:30:21] [Server thread/INFO]: akukis issued server command: /skin
-[17:30:28] [Server thread/INFO]: akukis issued server command: /skin help skin search <searchString>
-[17:30:34] [Server thread/INFO]: akukis issued server command: /skin
-[17:30:40] [Server thread/INFO]: Sodopa issued server command: /skin menu
-[17:30:50] [Server thread/INFO]: akukis issued server command: /skin menu
-[17:30:55] [Async Chat Thread - #6/INFO]: [Not Secure] <Sodopa> zz
-[17:30:55] [Async Chat Thread - #6/INFO]: [Not Secure] <Sodopa> zzz
-[17:30:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Sodopa> z
-[17:30:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Sodopa> z
-[17:30:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Sodopa> zzz
-[17:30:56] [Async Chat Thread - #6/INFO]: [Not Secure] <Sodopa> z
-[17:30:57] [Server thread/INFO]: Mondongo has made the advancement [Sweet Dreams]
-[17:31:21] [Server thread/INFO]: akukis issued server command: /skin menu
-[17:31:36] [Server thread/INFO]: akukis issued server command: /skin menu
-[17:32:39] [Server thread/INFO]: Mondongo has made the advancement [Suit Up]
-[17:34:34] [Server thread/INFO]: akukis has made the advancement [Monster Hunter]
-[17:41:24] [Server thread/INFO]: Teo_09 has made the advancement [Sweet Dreams]
-[17:42:27] [Server thread/INFO]: MrEl_0bit has made the advancement [Hot Stuff]
-[17:44:57] [Server thread/INFO]: Sebas2089 lost connection: Disconnected
-[17:44:57] [Server thread/INFO]: [voicechat] Disconnecting client Sebas2089
-[17:44:57] [Server thread/INFO]: Sebas2089 left the game
-[17:45:46] [Server thread/INFO]: Mondongo lost connection: Disconnected
-[17:45:46] [Server thread/INFO]: [voicechat] Disconnecting client Mondongo
-[17:45:46] [Server thread/INFO]: Mondongo left the game
-[17:54:35] [Server thread/INFO]: akukis lost connection: Disconnected
-[17:54:35] [Server thread/INFO]: [voicechat] Disconnecting client akukis
-[17:54:35] [Server thread/INFO]: akukis left the game
-[17:56:52] [Server thread/INFO]: Teo_09 has made the advancement [What a Deal!]
-[18:01:08] [Server thread/INFO]: MrEl_0bit has made the advancement [We Need to Go Deeper]
-[18:01:35] [Server thread/INFO]: MrEl_0bit has made the advancement [Ol' Betsy]
-[18:01:35] [Server thread/INFO]: MrEl_0bit has made the advancement [Take Aim]
-[18:11:06] [Server thread/INFO]: Teo_09 has made the advancement [A Seedy Place]
-[18:22:05] [Server thread/INFO]: Sodopa has made the advancement [Hot Stuff]
-[18:34:52] [Server thread/WARN]: Oak Boat (vehicle of Sodopa) moved wrongly! 0.4097445453603541
-[18:34:52] [Server thread/WARN]: Oak Boat (vehicle of Sodopa) moved wrongly! 0.7700506097085054
-[18:34:53] [Server thread/WARN]: Oak Boat (vehicle of Sodopa) moved wrongly! 0.3133712111903151
-[18:34:53] [Server thread/WARN]: Oak Boat (vehicle of Sodopa) moved wrongly! 0.6420453459722921
-[18:34:53] [Server thread/WARN]: Oak Boat (vehicle of Sodopa) moved wrongly! 0.9213601167120942
-[18:49:11] [Server thread/INFO]: Teo_09 was slain by Iron Golem
-[18:53:56] [Server thread/INFO]: MrEl_0bit lost connection: Disconnected
-[18:53:56] [Server thread/INFO]: [voicechat] Disconnecting client MrEl_0bit
-[18:53:56] [Server thread/INFO]: MrEl_0bit left the game
-[18:56:35] [Server thread/INFO]: Sodopa lost connection: Disconnected
-[18:56:35] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
-[18:56:35] [Server thread/INFO]: Sodopa left the game
-[18:57:30] [User Authenticator #8/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
-[18:57:31] [Server thread/INFO]: Sodopa joined the game
-[18:57:31] [Server thread/INFO]: Sodopa[/127.198.40.59:57577] logged in with entity id 127681 at ([ku klux klan]2659.0914012337926, 71.02442408821369, -614.252752127723)
-[18:57:32] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
-[18:57:32] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
-[18:57:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d0099148-e7cf-358d-a4ad-37a75a059ee9
-[18:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
-[18:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
-[19:17:48] [Server thread/INFO]: Teo_09 has made the advancement [Suit Up]
-[19:20:38] [Server thread/INFO]: Teo_09 was slain by Iron Golem
+[20:37:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:37:35] [ServerMain/INFO]: Loaded 1337 recipes
+[20:37:35] [ServerMain/INFO]: Loaded 1448 advancements
+[20:37:35] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:37:35] [Server thread/INFO]: Loading properties
+[20:37:35] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[20:37:36] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:37:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:37:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:37:37] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:37:37] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:37:37] [Server thread/INFO]: Default game type: SURVIVAL
+[20:37:37] [Server thread/INFO]: Generating keypair
+[20:37:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:37:38] [Server thread/INFO]: Using epoll channel type
+[20:37:38] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:37:38] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:37:39] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[20:37:39] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[20:37:40] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[20:37:40] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.6.2
+[20:37:40] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.2
+[20:37:40] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[20:37:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:37:40] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[20:37:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[20:37:41] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:37:41] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[20:37:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:37:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:37:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:37:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:37:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:37:42] [Server thread/INFO]: Preparing level "ku klux klan"
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:37:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:37:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:37:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:43] [Server thread/INFO]: Preparing spawn area: 2%
+[20:37:43] [Server thread/INFO]: Time elapsed: 850 ms
+[20:37:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:37:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:44] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[20:37:44] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 510.1ms
+[20:37:44] [Server thread/INFO]: Preparing spawn area: 69%
+[20:37:44] [Server thread/INFO]: Preparing spawn area: 69%
+[20:37:44] [Server thread/INFO]: Time elapsed: 1291 ms
+[20:37:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:37:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:45] [Server thread/INFO]: Time elapsed: 127 ms
+[20:37:45] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.6.2
+[20:37:45] [Server thread/INFO]: [Sleeper] Sleeper Version 1.6.2 Has Been Enabled!
+[20:37:45] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.2
+[20:37:46] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[20:37:46] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.3-R0.1
+[20:37:46] [Server thread/INFO]: [voicechat] Compatibility version 18
+[20:37:46] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[20:37:46] [Server thread/INFO]: [spark] Starting background profiler...
+[20:37:47] [Server thread/INFO]: Done preparing level "ku klux klan" (4.767s)
+[20:37:47] [Server thread/INFO]: Running delayed init tasks
+[20:37:47] [Server thread/INFO]: Done (20.597s)! For help, type "help"
+[20:37:47] [Server thread/INFO]: [voicechat] Loading plugins
+[20:37:47] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[20:37:47] [Server thread/INFO]: [voicechat] Initializing plugins
+[20:37:47] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[20:37:47] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:37:47] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'back-bumper.gl.at.ply.gg:3133'
+[20:37:47] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'back-bumper.gl.at.ply.gg', binding to wildcard IP instead
+[20:37:47] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at back-bumper.gl.at.ply.gg:3133
+[20:37:52] [User Authenticator #0/INFO]: UUID of player MrEl_0bit is cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[20:37:54] [Server thread/INFO]: MrEl_0bit joined the game
+[20:37:54] [Server thread/INFO]: MrEl_0bit[/127.59.153.24:41689] logged in with entity id 15 at ([ku klux klan]2612.9145341490403, 61.0, -602.9241538727111)
+[20:37:54] [Server thread/INFO]: [voicechat] Received secret request of MrEl_0bit (18)
+[20:37:54] [Server thread/INFO]: [voicechat] Sent secret to MrEl_0bit
+[20:37:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[20:37:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player cb18b461-a90f-3ea7-b1f6-19d11ecd53a4
+[20:37:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MrEl_0bit (cb18b461-a90f-3ea7-b1f6-19d11ecd53a4) successfully connected to voice chat
+[20:41:34] [Server thread/INFO]: [Not Secure] [Server] sexo porno tetas
+[20:41:55] [User Authenticator #1/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
+[20:41:56] [Server thread/INFO]: Sodopa joined the game
+[20:41:56] [Server thread/INFO]: Sodopa[/127.198.40.59:53691] logged in with entity id 934 at ([ku klux klan]2659.4427508990757, 70.0, -579.0047665163653)
+[20:41:57] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
+[20:41:57] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
+[20:41:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[20:41:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[20:41:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
