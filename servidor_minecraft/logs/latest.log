@@ -102,3 +102,4 @@
 [20:41:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
 [20:41:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
 [20:57:31] [Server thread/INFO]: MrEl_0bit hit the ground too hard
+[20:59:03] [Server thread/INFO]: Villager Villager['Fletcher'/38, uuid='a2aee932-684f-4b84-b770-6d70baa7cb7b', l='ServerLevel[ku klux klan]', x=2669.70, y=70.00, z=-598.50, cpos=[166, -38], tl=53645, v=true] died, message: 'Fletcher was slain by Sodopa'
