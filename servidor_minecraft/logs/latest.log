@@ -139,3 +139,24 @@
 [23:09:04] [Server thread/INFO]: Mondongo joined the game
 [23:09:04] [Server thread/INFO]: Mondongo[/127.200.95.197:42955] logged in with entity id 29489 at ([ku klux klan]2665.4200380987218, 70.0, -583.5249405871584)
 [23:22:55] [Server thread/INFO]: Mondongo has made the advancement [What a Deal!]
+[23:31:36] [User Authenticator #5/INFO]: UUID of player akukis is 2b36bba9-4418-3ccc-9179-d1564b80bed2
+[23:31:37] [Server thread/INFO]: akukis joined the game
+[23:31:37] [Server thread/INFO]: akukis[/127.157.211.142:36587] logged in with entity id 35690 at ([ku klux klan]2663.566819500439, 70.0, -579.6160557027248)
+[23:32:28] [Server thread/INFO]: akukis has made the advancement [Suit Up]
+[23:32:38] [Server thread/INFO]: Teo_09 has made the advancement [Cover Me with Diamonds]
+[23:33:32] [User Authenticator #6/INFO]: UUID of player Sebas2089 is c76fb0d0-4766-3403-915f-e2c5c9a0a8eb
+[23:33:33] [Server thread/INFO]: Sebas2089 joined the game
+[23:33:33] [Server thread/INFO]: Sebas2089[/127.43.21.15:60187] logged in with entity id 36160 at ([ku klux klan]2920.3266925664702, 86.9375, -427.87165179652254)
+[23:34:54] [Server thread/INFO]: Sebas2089 lost connection: Disconnected
+[23:34:54] [Server thread/INFO]: [voicechat] Disconnecting client Sebas2089
+[23:34:54] [Server thread/INFO]: Sebas2089 left the game
+[23:39:33] [Server thread/INFO]: akukis has made the advancement [We Need to Go Deeper]
+[23:40:10] [User Authenticator #7/INFO]: UUID of player Sebas2089 is c76fb0d0-4766-3403-915f-e2c5c9a0a8eb
+[23:40:11] [Server thread/INFO]: Sebas2089 joined the game
+[23:40:11] [Server thread/INFO]: Sebas2089[/127.43.21.15:35405] logged in with entity id 37999 at ([ku klux klan]2905.699999988079, 94.0, -403.7385284071344)
+[23:40:11] [Server thread/INFO]: [voicechat] Received secret request of Sebas2089 (18)
+[23:40:11] [Server thread/INFO]: [voicechat] Sent secret to Sebas2089
+[23:40:13] [Server thread/INFO]: akukis has made the advancement [Diamonds!]
+[23:40:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c76fb0d0-4766-3403-915f-e2c5c9a0a8eb
+[23:40:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c76fb0d0-4766-3403-915f-e2c5c9a0a8eb
+[23:40:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sebas2089 (c76fb0d0-4766-3403-915f-e2c5c9a0a8eb) successfully connected to voice chat
