@@ -163,3 +163,146 @@
 [01:02:55] [Server thread/INFO]: [Sodopa: Teleported Sebas2089 to Sebas2089]
 [01:02:58] [Server thread/INFO]: Sodopa issued server command: /tp Sebas2089 Sodopa
 [01:02:58] [Server thread/INFO]: [Sodopa: Teleported Sebas2089 to Sodopa]
+[01:13:59] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:speed 2 99
+[01:13:59] [Server thread/INFO]: [Sodopa: Applied effect Speed to Sebas2089]
+[01:14:10] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:speed 2 99
+[01:14:10] [Server thread/INFO]: [Sodopa: Applied effect Speed to Sebas2089]
+[01:14:32] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 2 99
+[01:14:32] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:14:34] [Server thread/WARN]: Sebas2089 moved too quickly! -0.15095979905891,10.420000076293945,-0.45629017436306185
+[01:14:40] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 2 99
+[01:14:40] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:14:40] [Server thread/WARN]: Sebas2089 moved too quickly! 0.0,10.420000076293945,0.0
+[01:14:41] [Server thread/WARN]: Sebas2089 moved too quickly! 0.0,10.420000076293945,0.0
+[01:14:41] [Server thread/WARN]: Sebas2089 moved too quickly! 0.0,10.420000076293945,0.0
+[01:14:42] [Server thread/WARN]: Sebas2089 moved too quickly! 0.0,10.420000076293945,0.0
+[01:14:52] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 2 99
+[01:14:52] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:14:53] [Server thread/WARN]: Sebas2089 moved too quickly! 0.0,10.420000076293945,0.0
+[01:14:53] [Server thread/WARN]: Sebas2089 moved too quickly! 0.0,10.420000076293945,0.0
+[01:14:54] [Server thread/WARN]: Sebas2089 moved too quickly! 0.0,10.420000076293945,0.0
+[01:15:00] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:speed 2 99
+[01:15:00] [Server thread/INFO]: [Sodopa: Applied effect Speed to Sebas2089]
+[01:15:09] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 2 89
+[01:15:09] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:15:19] [Server thread/INFO]: Sebas2089 fell from a high place
+[01:15:25] [Server thread/INFO]: Sodopa issued server command: /tp Sebas2089 Sodopa
+[01:15:25] [Server thread/INFO]: [Sodopa: Teleported Sebas2089 to Sodopa]
+[01:15:58] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 99
+[01:15:58] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:15:59] [Server thread/WARN]: Sodopa moved too quickly! 0.005450390128771687,10.420000076293945,-0.005450390128658
+[01:16:00] [Server thread/WARN]: Sodopa moved too quickly! -0.001572267133724381,10.420000076293945,-0.17025500147565253
+[01:16:00] [Server thread/WARN]: Sodopa moved too quickly! -0.021728431232531875,10.420000076293945,0.021593222745536877
+[01:16:02] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 99
+[01:16:02] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:16:02] [Server thread/WARN]: Sodopa moved too quickly! 0.0,10.420000076293945,0.0
+[01:16:03] [Server thread/WARN]: Sodopa moved too quickly! 0.0,10.420000076293945,0.0
+[01:16:03] [Server thread/WARN]: Sodopa moved too quickly! 0.0,10.420000076293945,0.0
+[01:16:03] [Server thread/WARN]: Sodopa moved too quickly! 0.0,10.420000076293945,0.0
+[01:16:04] [Server thread/WARN]: Sodopa moved too quickly! 0.0,10.420000076293945,0.0
+[01:16:04] [Server thread/WARN]: Sodopa moved too quickly! 0.0,10.420000076293945,0.0
+[01:16:04] [Server thread/WARN]: Sodopa moved too quickly! 0.0,10.420000076293945,0.0
+[01:16:06] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:16:06] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:16:20] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 2 89
+[01:16:20] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:16:29] [Server thread/INFO]: Sebas2089 fell from a high place
+[01:16:36] [Server thread/INFO]: Sodopa issued server command: /tp Sebas2089 Sodopa
+[01:16:36] [Server thread/INFO]: [Sodopa: Teleported Sebas2089 to Sodopa]
+[01:17:26] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 2 89
+[01:17:26] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:17:34] [Server thread/INFO]: Sebas2089 fell from a high place
+[01:17:36] [Server thread/INFO]: Sodopa issued server command: /tp Sebas2089 Sodopa
+[01:17:36] [Server thread/INFO]: [Sodopa: Teleported Sebas2089 to Sodopa]
+[01:17:54] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:17:54] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:17:58] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:17:58] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:18:06] [Server thread/INFO]: Sodopa fell from a high place
+[01:18:23] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:18:23] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:18:32] [Server thread/INFO]: Sodopa fell from a high place
+[01:18:41] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:jump_boost 2 89
+[01:18:41] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to akukis]
+[01:18:49] [Server thread/INFO]: akukis fell from a high place
+[01:19:08] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:jump_boost 2 89
+[01:19:08] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to akukis]
+[01:19:09] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:19:09] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:19:11] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:jump_boost 2 89
+[01:19:11] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to akukis]
+[01:19:12] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:jump_boost 2 89
+[01:19:12] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to akukis]
+[01:19:12] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:jump_boost 2 89
+[01:19:12] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to akukis]
+[01:19:20] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:jump_boost 60 90
+[01:19:20] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to akukis]
+[01:19:49] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:19:49] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:19:54] [Server thread/INFO]: akukis fell from a high place
+[01:19:58] [Server thread/INFO]: Sodopa fell from a high place
+[01:20:02] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:20:02] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:20:04] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:jump_boost 60 90
+[01:20:04] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to akukis]
+[01:20:31] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 2 89
+[01:20:31] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:20:34] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 2 89
+[01:20:34] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:20:35] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:jump_boost 60 90
+[01:20:35] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to akukis]
+[01:20:37] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:20:37] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:20:42] [Server thread/INFO]: Sebas2089 fell from a high place
+[01:20:55] [Server thread/INFO]: Sodopa issued server command: /tp Sebas2089 Sodopa
+[01:20:55] [Server thread/INFO]: [Sodopa: Teleported Sebas2089 to Sodopa]
+[01:21:07] [Server thread/INFO]: akukis fell from a high place
+[01:21:18] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:jump_boost 2 89
+[01:21:18] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sodopa]
+[01:21:26] [Server thread/INFO]: Sodopa fell from a high place
+[01:21:47] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:glowing 120
+[01:21:47] [Server thread/INFO]: [Sodopa: Applied effect Glowing to akukis]
+[01:22:28] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:levitation 7 8
+[01:22:28] [Server thread/INFO]: [Sodopa: Applied effect Levitation to akukis]
+[01:22:35] [Server thread/INFO]: akukis has completed the challenge [Great View From Up Here]
+[01:22:38] [Server thread/INFO]: akukis fell from a high place
+[01:22:45] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:levitation 7 2
+[01:22:45] [Server thread/INFO]: [Sodopa: Applied effect Levitation to akukis]
+[01:23:05] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:levitation 2 99
+[01:23:05] [Server thread/INFO]: [Sodopa: Applied effect Levitation to Sebas2089]
+[01:23:06] [Server thread/INFO]: Sebas2089 has completed the challenge [Great View From Up Here]
+[01:23:15] [Server thread/INFO]: Sebas2089 fell from a high place
+[01:23:41] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:wind_charged 2
+[01:23:41] [Server thread/INFO]: [Sodopa: Applied effect Wind Charged to Sebas2089]
+[01:23:52] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:wind_charged 2
+[01:23:52] [Server thread/INFO]: [Sodopa: Applied effect Wind Charged to Sodopa]
+[01:23:54] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:wind_charged 44
+[01:23:54] [Server thread/INFO]: [Sodopa: Applied effect Wind Charged to Sodopa]
+[01:24:28] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:speed 9 99
+[01:24:28] [Server thread/INFO]: [Sodopa: Applied effect Speed to Sebas2089]
+[01:25:00] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:unluck 3
+[01:25:00] [Server thread/INFO]: [Sodopa: Applied effect Bad Luck to Sebas2089]
+[01:25:04] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:unluck infinite
+[01:25:04] [Server thread/INFO]: [Sodopa: Applied effect Bad Luck to Sebas2089]
+[01:25:19] [Server thread/INFO]: Sodopa issued server command: /effect clear Sebas2089
+[01:25:19] [Server thread/INFO]: [Sodopa: Removed every effect from Sebas2089]
+[01:26:36] [Server thread/INFO]: Sodopa issued server command: /give Sebas2089 minecraft:tnt 9999
+[01:26:58] [Server thread/INFO]: Sodopa issued server command: /give Sebas2089 minecraft:tnt 6400
+[01:26:58] [Server thread/INFO]: [Sodopa: Gave 6400 [TNT] to Sebas2089]
+[01:28:46] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:slowness 20 3
+[01:28:46] [Server thread/INFO]: [Sodopa: Applied effect Slowness to akukis]
+[01:29:00] [Server thread/INFO]: Sodopa was slain by akukis
+[01:30:54] [Server thread/INFO]: Sodopa tried to swim in lava
+[01:31:12] [Server thread/INFO]: Sodopa issued server command: /effect give Sebas2089 minecraft:jump_boost 7 30
+[01:31:12] [Server thread/INFO]: [Sodopa: Applied effect Jump Boost to Sebas2089]
+[01:31:37] [Server thread/INFO]: Sodopa issued server command: /effect give Mondongo minecraft:speed 1 99
+[01:31:37] [Server thread/INFO]: [Sodopa: Applied effect Speed to Mondongo]
+[01:31:52] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:speed 1 99
+[01:31:52] [Server thread/INFO]: [Sodopa: Applied effect Speed to akukis]
+[01:31:59] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:speed 2 99
+[01:31:59] [Server thread/INFO]: [Sodopa: Applied effect Speed to akukis]
+[01:32:19] [Server thread/INFO]: Sebas2089 lost connection: Disconnected
+[01:32:19] [Server thread/INFO]: [voicechat] Disconnecting client Sebas2089
+[01:32:19] [Server thread/INFO]: Sebas2089 left the game
+[01:32:27] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:speed 60 99
+[01:32:27] [Server thread/INFO]: [Sodopa: Applied effect Speed to akukis]
