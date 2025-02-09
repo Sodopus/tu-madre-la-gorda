@@ -16,3 +16,68 @@
 [00:16:44] [Server thread/INFO]: Villager Villager['Villager'/37272, uuid='bfa6c2f1-9445-4923-bf26-d693f8b472bb', l='ServerLevel[ku klux klan]', x=2637.54, y=70.00, z=-588.50, cpos=[164, -37], tl=46725, v=true] died, message: 'Villager suffocated in a wall'
 [00:17:18] [Server thread/INFO]: Sebas2089 has made the advancement [What a Deal!]
 [00:29:17] [Server thread/INFO]: Sebas2089 has made the advancement [Cover Me with Diamonds]
+[00:32:23] [Server thread/INFO]: Sodopa lost connection: Disconnected
+[00:32:23] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
+[00:32:23] [Server thread/INFO]: Sodopa left the game
+[00:32:48] [User Authenticator #9/INFO]: UUID of player Sodopa is d0099148-e7cf-358d-a4ad-37a75a059ee9
+[00:32:49] [Server thread/INFO]: Sodopa joined the game
+[00:32:49] [Server thread/INFO]: Sodopa[/127.198.40.59:37367] logged in with entity id 52882 at ([ku klux klan]2676.3190423332944, 73.56904711312373, -592.841396587283)
+[00:32:49] [Server thread/INFO]: [voicechat] Received secret request of Sodopa (18)
+[00:32:49] [Server thread/INFO]: [voicechat] Sent secret to Sodopa
+[00:32:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[00:32:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d0099148-e7cf-358d-a4ad-37a75a059ee9
+[00:32:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sodopa (d0099148-e7cf-358d-a4ad-37a75a059ee9) successfully connected to voice chat
+[00:34:17] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:arrow
+[00:34:17] [Server thread/INFO]: [Sodopa: Summoned new Arrow]
+[00:34:22] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:arrow
+[00:34:22] [Server thread/INFO]: [Sodopa: Summoned new Arrow]
+[00:34:27] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:arrow
+[00:34:27] [Server thread/INFO]: [Sodopa: Summoned new Arrow]
+[00:34:41] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:acacia_boat
+[00:34:41] [Server thread/INFO]: [Sodopa: Summoned new Acacia Boat]
+[00:35:46] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:fireball
+[00:35:46] [Server thread/INFO]: [Sodopa: Summoned new Fireball]
+[00:36:09] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:fireball
+[00:36:09] [Server thread/INFO]: [Sodopa: Summoned new Fireball]
+[00:36:35] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:wither_skull
+[00:36:35] [Server thread/INFO]: [Sodopa: Summoned new Wither Skull]
+[00:37:24] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:snowball
+[00:37:24] [Server thread/INFO]: [Sodopa: Summoned new Snowball]
+[00:37:27] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:snowball
+[00:37:27] [Server thread/INFO]: [Sodopa: Summoned new Snowball]
+[00:37:28] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:snowball
+[00:37:28] [Server thread/INFO]: [Sodopa: Summoned new Snowball]
+[00:37:36] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:36] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:38] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:38] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:39] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:39] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:41] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:41] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:41] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:41] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:42] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:42] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:42] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:42] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:42] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:42] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:43] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:43] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:43] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:43] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:50] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:50] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:51] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:51] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:51] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:51] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:37:52] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bat
+[00:37:52] [Server thread/INFO]: [Sodopa: Summoned new Bat]
+[00:38:19] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:38:19] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:38:43] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:38:43] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:39:51] [Server thread/INFO]: Villager Villager['Villager'/45858, uuid='9b0dfbd4-4dcd-4103-84e5-5b1034172b61', l='ServerLevel[ku klux klan]', x=2675.55, y=70.00, z=-592.30, cpos=[167, -38], tl=45841, v=true] died, message: 'Villager was slain by akukis'
+[00:41:07] [Server thread/INFO]: Villager Villager['Villager'/52336, uuid='94a30dfb-47f4-4f37-a98f-a625e393bbf7', l='ServerLevel[ku klux klan]', x=2638.49, y=70.06, z=-588.50, cpos=[164, -37], tl=14331, v=true] died, message: 'Villager was slain by akukis'
