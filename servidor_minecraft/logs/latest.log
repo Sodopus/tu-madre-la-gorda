@@ -81,3 +81,65 @@
 [00:38:43] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
 [00:39:51] [Server thread/INFO]: Villager Villager['Villager'/45858, uuid='9b0dfbd4-4dcd-4103-84e5-5b1034172b61', l='ServerLevel[ku klux klan]', x=2675.55, y=70.00, z=-592.30, cpos=[167, -38], tl=45841, v=true] died, message: 'Villager was slain by akukis'
 [00:41:07] [Server thread/INFO]: Villager Villager['Villager'/52336, uuid='94a30dfb-47f4-4f37-a98f-a625e393bbf7', l='ServerLevel[ku klux klan]', x=2638.49, y=70.06, z=-588.50, cpos=[164, -37], tl=14331, v=true] died, message: 'Villager was slain by akukis'
+[00:43:08] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:bamboo_raft
+[00:43:08] [Server thread/INFO]: [Sodopa: Summoned new Bamboo Raft]
+[00:43:39] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:wind_charge
+[00:43:39] [Server thread/INFO]: [Sodopa: Summoned new Wind Charge]
+[00:43:44] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:wind_charge
+[00:43:44] [Server thread/INFO]: [Sodopa: Summoned new Wind Charge]
+[00:44:29] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:small_fireball
+[00:44:29] [Server thread/INFO]: [Sodopa: Summoned new Small Fireball]
+[00:45:02] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:shulker_bullet
+[00:45:02] [Server thread/INFO]: [Sodopa: Summoned new Shulker Bullet]
+[00:45:05] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:shulker_bullet
+[00:45:05] [Server thread/INFO]: [Sodopa: Summoned new Shulker Bullet]
+[00:45:16] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:area_effect_cloud
+[00:45:16] [Server thread/INFO]: [Sodopa: Summoned new Area Effect Cloud]
+[00:45:42] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:cod
+[00:45:42] [Server thread/INFO]: [Sodopa: Summoned new Cod]
+[00:45:51] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:cod
+[00:45:51] [Server thread/INFO]: [Sodopa: Summoned new Cod]
+[00:45:52] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:cod
+[00:45:52] [Server thread/INFO]: [Sodopa: Summoned new Cod]
+[00:45:52] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:cod
+[00:45:52] [Server thread/INFO]: [Sodopa: Summoned new Cod]
+[00:45:53] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:cod
+[00:45:53] [Server thread/INFO]: [Sodopa: Summoned new Cod]
+[00:45:53] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:cod
+[00:45:53] [Server thread/INFO]: [Sodopa: Summoned new Cod]
+[00:45:53] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:cod
+[00:45:53] [Server thread/INFO]: [Sodopa: Summoned new Cod]
+[00:45:54] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:cod
+[00:45:54] [Server thread/INFO]: [Sodopa: Summoned new Cod]
+[00:46:12] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:dolphin
+[00:46:12] [Server thread/INFO]: [Sodopa: Summoned new Dolphin]
+[00:46:21] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:dolphin
+[00:46:21] [Server thread/INFO]: [Sodopa: Summoned new Dolphin]
+[00:46:41] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:dolphin
+[00:46:41] [Server thread/INFO]: [Sodopa: Summoned new Dolphin]
+[00:47:34] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:34] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:35] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:35] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:35] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:35] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:35] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:35] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:36] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:36] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:36] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:36] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:36] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:36] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:37] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:37] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:37] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:37] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:38] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:38] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:38] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:tadpole
+[00:47:38] [Server thread/INFO]: [Sodopa: Summoned new Tadpole]
+[00:47:39] [Server thread/INFO]: Sodopa issued server command: /summon minecraft:dolphin
+[00:47:39] [Server thread/INFO]: [Sodopa: Summoned new Dolphin]
+[00:50:30] [Server thread/INFO]: Sodopa has made the advancement [Best Friends Forever]
+[00:50:46] [Server thread/INFO]: Sebas2089 has made the advancement [Diamonds!]
