@@ -306,3 +306,18 @@
 [01:32:19] [Server thread/INFO]: Sebas2089 left the game
 [01:32:27] [Server thread/INFO]: Sodopa issued server command: /effect give akukis minecraft:speed 60 99
 [01:32:27] [Server thread/INFO]: [Sodopa: Applied effect Speed to akukis]
+[01:33:03] [Server thread/INFO]: Sodopa issued server command: /effect give Sodopa minecraft:resistance 240 99
+[01:33:03] [Server thread/INFO]: [Sodopa: Applied effect Resistance to Sodopa]
+[01:33:04] [Server thread/INFO]: Mondongo has made the advancement [We Need to Go Deeper]
+[01:33:20] [Server thread/INFO]: Sodopa issued server command: /tp akukis Sodopa
+[01:33:20] [Server thread/INFO]: [Sodopa: Teleported akukis to Sodopa]
+[01:34:39] [Server thread/INFO]: Sodopa issued server command: /kill Sodopa
+[01:34:39] [Server thread/INFO]: Sodopa was killed
+[01:34:39] [Server thread/INFO]: [Sodopa: Killed Sodopa]
+[01:35:19] [Server thread/INFO]: Sodopa was slain by akukis
+[01:35:48] [Server thread/INFO]: Sodopa lost connection: Disconnected
+[01:35:48] [Server thread/INFO]: [voicechat] Disconnecting client Sodopa
+[01:35:48] [Server thread/INFO]: Sodopa left the game
+[01:36:03] [Server thread/INFO]: akukis lost connection: Disconnected
+[01:36:03] [Server thread/INFO]: [voicechat] Disconnecting client akukis
+[01:36:03] [Server thread/INFO]: akukis left the game
